@@ -8,6 +8,7 @@ This is a vuejs starter project.
 - typescript
 - e2e-nightwatch
 - scss (node)
+- bootstrap (node)
 
 ## Project setup
 ```
