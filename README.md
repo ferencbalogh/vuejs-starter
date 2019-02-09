@@ -9,6 +9,7 @@ This is a vuejs starter project.
 - e2e-nightwatch
 - scss (node)
 - bootstrap (node)
+- ion icons
 
 ## Project setup
 ```
@@ -18,6 +19,7 @@ yarn install
 ### Compiles and hot-reloads for development
 ```
 yarn run serve
+yarn run watch
 ```
 
 ### Compiles and minifies for production
