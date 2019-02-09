@@ -1,34 +1,49 @@
-# hello-world
+# VueJs Starter 1.0.0
+
+This is a vuejs starter project.
+
+## What's included:
+
+- babel
+- typescript
+- e2e-nightwatch
+- scss (node)
 
 ## Project setup
 ```
-npm install
+yarn install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+yarn run serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+yarn run build
 ```
 
 ### Run your tests
 ```
-npm run test
+yarn run test
 ```
 
 ### Lints and fixes files
 ```
-npm run lint
+yarn run lint
 ```
 
 ### Run your end-to-end tests
 ```
-npm run test:e2e
+yarn run test:e2e
 ```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Author
+Balogh Ferenc Levente <baloghferenclevente@gmail.com>
+
+### License
+Licensed under MIT
